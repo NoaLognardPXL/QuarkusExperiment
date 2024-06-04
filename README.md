@@ -8,7 +8,7 @@ If you want to learn more about Quarkus, please visit its website: https://quark
 
 You can run your application in dev mode that enables live coding using:
 
-```shell script
+```shell script    
 ./mvnw compile quarkus:dev
 ```
 
